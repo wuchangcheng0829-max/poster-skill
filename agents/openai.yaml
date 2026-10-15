@@ -1,0 +1,5 @@
+interface:
+  display_name: "Street Lab Poster"
+  short_description: "Generate kinetic fisheye 3D street campaign posters"
+  brand_color: "#0754A6"
+  default_prompt: "Use $street-lab-poster to turn my subject and copy into a kinetic 3:4 urban 3D campaign poster."
